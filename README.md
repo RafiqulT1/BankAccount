@@ -1,18 +1,10 @@
-## Getting Started
+# BankAccount Project 💰
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## About 
+>+ ### My Project 🪜
+>>This is a basic Object-oriented java program (OOP) with minimal interaction with user. Here you can create your bank account by inserting your account name, number and bank balance. After creating your account it will automatically print out withdrawal and deposit massage for demo. 
+>+ ### Run BankAccount project ⚙️
+>> To run it you can Pull src folder to your machine then run BankAccountMain.java file through terminal/console or directly through code editor.
+>+ ###  Future Updates 💾
+>> In future update users will be able to deposit and withdraw their desirable value, the bank statement will be found as .txt file and more ……
 
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
