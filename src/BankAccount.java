@@ -31,7 +31,8 @@ public class BankAccount {
     // Withdraw method to check withdraw limit and to make a withdraw
     public void withdraw(double withdrawal_amount) {
         if (this.balance - withdrawal_amount < 0){
-            System.out.println("Only " + this.balance + "€ available. Withdrawal not processed");
+            System.out.println("Only " + this.balance + "€ available. Withdrawal not processed!");
+            System.out.println("Please try again!");
         }
         else{
             this.balance = Math.floor((this.balance - withdrawal_amount) * 1e2) / 1e2;

@@ -79,9 +79,9 @@ public class BankAccountMain {
         System.out.println("");
         new_account.print(); // Printing bank info again
         System.out.println("");
-        // new_account.deposit(500); // Making a deposit
-        // System.out.println("");
-        // new_account.print(); // Printing account information again 
+        new_account.deposit(500); // Making a deposit
+        System.out.println("");
+        new_account.print(); // Printing account information again 
         
     }
 }
