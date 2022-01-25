@@ -6,5 +6,5 @@
 >+ ### Run BankAccount project ⚙️
 >> To run it you can Pull src folder to your machine then run BankAccountMain.java file through terminal/console or directly through code editor.
 >+ ###  Future Updates 💾
->> In future update users will be able to deposit and withdraw their desirable value, the bank statement will be found as .txt file and more ……
+>> In future update users will be able to deposit and withdraw their desirable amount, the bank statement will be found as .txt file and more ……
 
